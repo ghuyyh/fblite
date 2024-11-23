@@ -1,2 +1,2 @@
 # fblite
-Configuration profile
+Configuration profile for IOS
